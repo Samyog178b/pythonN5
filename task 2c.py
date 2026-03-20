@@ -1,0 +1,6 @@
+print("please enter your maths test score")
+mathstestscore=int(input())
+print("please enter your english test score")
+englishtestscore=int(input())
+print("please enter your coputing test score")
+computingtestscore=int(input())

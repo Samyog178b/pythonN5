@@ -1,0 +1,7 @@
+print("please enter the length of the room")
+length=int(input(""))
+print("please enter the breadth of the room")
+breadth=int(input(""))
+print("please enter the height of the room")
+height=int(input(""))
+print("The area of the room", length*breadth*height, "meters squared")
